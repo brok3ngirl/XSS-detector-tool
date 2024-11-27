@@ -9,4 +9,4 @@ usage: crosscause.py [-h] --moudle MOUDLE [--url URL] [--page PAGE]
 For example:
 
 
-![pic]https://github.com/brok3ngirl/XSS-detector-tool/blob/main/pic.png
+![pic](./pic.png)
