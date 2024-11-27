@@ -6,7 +6,7 @@
 
 usage: crosscause.py [-h] --moudle MOUDLE [--url URL] [--page PAGE]
 For example:
-
+'''
 └─$ python crosscause.py -m test -p test.php
  ___    ___ ________   ________           ________   ________          ___       __   ________      ___    ___ 
 |\  \  /  /|\   ____\ |\   ____\         |\   ___  \|\   __  \        |\  \     |\  \|\   __  \    |\  \  /  /|
